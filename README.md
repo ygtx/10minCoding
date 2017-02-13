@@ -1,4 +1,4 @@
-* quote from: <http://ameblo.jp/programming/entry-10001721422.html>
+* Quotation Source: <http://ameblo.jp/programming/entry-10001721422.html>
 
 <pre>
 難易度　激簡単　目標時間１０分以内
